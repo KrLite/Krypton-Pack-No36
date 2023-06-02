@@ -5,13 +5,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: Archive datapack
+    - name: Pack
       uses: actions/upload-artifact@v3
       with:
         name: 'KRYPTON - Pack No.36'
         path: |
-          "KRYPTON Preset Pack"
-          "KRYPTON Sample Pack"
+          KRYPTON Preset Pack
+          KRYPTON Preset Pack
           LICENSE
           !./**/*.md
 
