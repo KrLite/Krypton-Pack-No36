@@ -10,8 +10,8 @@ jobs:
       with:
         name: 'KRYPTON - Pack No.36'
         path: |
-          data
-          pack.mcmeta
+          "KRYPTON Preset Pack"
+          "KRYPTON Sample Pack"
           LICENSE
           !./**/*.md
 
