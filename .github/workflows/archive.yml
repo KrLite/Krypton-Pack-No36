@@ -1,0 +1,17 @@
+name: Archive
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Archive datapack
+      uses: actions/upload-artifact@v3
+      with:
+        name: 'KRYPTON - Pack No.36'
+        path: |
+          data
+          pack.mcmeta
+          LICENSE
+          !./**/*.md
+
