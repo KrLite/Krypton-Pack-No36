@@ -4,5 +4,4 @@
 
 #
 
-
-###### <!--COPYRIGHT--> <p align="center"> <sup>`©️2023`</sup> <a href="https://github.com/KrLite"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KrLite/KrLite/blob/main/artwork/logo/KrLite Worlds_Logo White.png?raw=true"/> <img height="18" src="https://github.com/KrLite/KrLite/blob/main/artwork/logo/KrLite Worlds_Logo Black.png?raw=true" /> </picture> </a> </p>
+###### <!--COPYRIGHT--><p align="center"><sup>`©️2023`</sup><a href="https://github.com/KrLite"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/KrLite/KrLite/blob/main/artwork/logo/KrLite%20Worlds_Logo%20White.png?raw=true"/><img height="18" src="https://github.com/KrLite/KrLite/blob/main/artwork/logo/KrLite%20Worlds_Logo%20Black.png?raw=true" /></picture></a></p>
