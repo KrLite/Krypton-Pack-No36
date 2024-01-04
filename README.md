@@ -11,11 +11,11 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github.com/KrLite/KrLite/blob/main/artwork/logo/dark/worlds.png?raw=true"
+        srcset="https://github.com/KrLite/KrLite/blob/artwork/logo/dark/worlds.png?raw=true"
        />
       <img 
         height="20"
-        src="https://github.com/KrLite/KrLite/blob/main/artwork/logo/light/worlds.png?raw=true" 
+        src="https://github.com/KrLite/KrLite/blob/artwork/logo/light/worlds.png?raw=true" 
        />
     </picture>
   </a>
