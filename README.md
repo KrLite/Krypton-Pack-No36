@@ -1,4 +1,4 @@
-# <p align="center">KRYPTON<br /><sup>`Pack 36`</sup></p>
+# <p align="center">KRYPTON<br /><sup>`Pack No.36`</sup></p>
 
 ###### <p align="center">An Open-Source Sample & Preset Pack</p>
 
